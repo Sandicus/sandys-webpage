@@ -27,4 +27,4 @@ To view the website locally, follow these steps:
 
 1. **Clone this repository to your local machine:**
    ```bash
-   git clone [https://github.com/your-username/personal-website.git](https://github.com/Sandicus/sandys-webpage.git)https://github.com/Sandicus/sandys-webpage.git
+   git clone https://github.com/Sandicus/sandys-webpage.git
